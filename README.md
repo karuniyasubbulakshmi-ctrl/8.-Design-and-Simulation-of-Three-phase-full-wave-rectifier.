@@ -43,7 +43,13 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+<img width="1759" height="584" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/98b0860c-283f-4ec8-b7ee-1067d5b0b038" />
 
 ## Output
+a=30 <img width="1920" height="1020" alt="Screenshot 2026-03-16 181258" src="https://github.com/user-attachments/assets/8793fe71-43ba-40d4-bd86-b1ccd5216a2e" />
+a=60 <img width="1920" height="960" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/463e3832-2b5d-4ff2-a6be-8a7543442d5d" />
+a=90 <img width="1920" height="997" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/671c703f-a8cd-4bc8-aca3-827a8fb578ae" />
+
 
 ## Result
+thus the Design-and-Simulation-of-Three-phase-full-wave-rectifier is verified 
